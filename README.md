@@ -98,9 +98,4 @@ Predict **air temperature (T °C) 24 hours into the future** using a leakage-saf
 4. Open the notebook in `code/` in Jupyter to reproduce the forecasting analysis
 ## Authors
  
-**Nur Afiqah** & **Zahra Alwaili**
-DSAI3204 — IoT Application Development, Group PG-2
- 
-## License
- 
-This project is available under the MIT License. See `LICENSE` for details.
+**Nur Afiqah** & **Zahra Alwaili** 
